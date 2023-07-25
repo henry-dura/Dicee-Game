@@ -2,6 +2,11 @@
 
 A dicee game application
 
+<h2>SCREENSHOT</h2>
+
+![Screen Video](screenVideo/dicee-game.mp4)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
