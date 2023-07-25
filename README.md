@@ -4,7 +4,10 @@ A dicee game application
 
 <h2>SCREENSHOT</h2>
 
-![Screen Video](screenVideo/dicee-game.mp4)
+<video width="640" height="360" controls autoplay>
+    <source src="screenVideo/dicee-game.mp4" type="video/mp4">
+    
+  </video>
 
 
 ## Getting Started
