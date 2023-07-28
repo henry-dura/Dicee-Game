@@ -1,13 +1,20 @@
 # dicee_game
 
-A dicee game application
 
-<h2>SCREENSHOT</h2>
+A dicee game application design to roll the dicee onclick and display score.
 
-<video width="640" height="360" controls autoplay>
-    <source src="screenVideo/dicee-game.mp4" type="video/mp4">
-    
-  </video>
+<h2 align="center">DEMO</h2>
+
+
+<div style="text-align: center;">
+  <img src="screenVideo/screen-video.gif" alt="Demo video" width="700">
+</div>
+
+
+
+
+
+
 
 
 ## Getting Started
